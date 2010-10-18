@@ -1,0 +1,11 @@
+wiki-name: DigitalCash.org
+wiki-dir: .
+static-dir: .
+document-extensions: [.md]
+generate-listing: never
+markdown:
+  extensions: [extra, codehilite, toc]
+  extension-configs:
+    codehilite:
+      force_linenos: false
+google-analytics: UA-83574-19
