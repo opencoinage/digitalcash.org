@@ -1,8 +1,7 @@
 Digital Cash Resources
 ======================
 
-What is digital cash?
----------------------
+## What is digital cash? {#whatis}
 
 Also known as digital currency, digital money, e-cash, e-currency, or
 e-money, digital cash refers to a unique cryptographic string of digits
@@ -27,12 +26,10 @@ depreciating fiat currencies, freedom from nation-state capital controls,
 freedom from confiscation and tax levies, and the unimpeded ability to
 transfer large-scale value privately.
 
-Articles
---------
+## Articles {#articles}
 
 Coming soon.
 
-Bibliography
-------------
+## Bibliography {#bibliography}
 
 Coming soon.
