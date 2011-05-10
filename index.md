@@ -5,11 +5,13 @@ Digital Cash Resources
 
 Also known as digital currency, digital money, e-cash, e-currency, or
 e-money, digital cash refers to a unique cryptographic string of digits
-representing value that can be transferred electronically. In its purest
-form, digital cash emulates the features of physical paper currency, namely
-anonymity and untraceability. Additionally, digital cash may include other
-features such as expiration dates, irreversibility, re-issuance, and
-variable denomination amounts.
+representing value that can be transferred electronically. Digital cash
+nomenclature specifically refers to digital bearer certificates that are
+negotiable in a peer-to-peer environment as opposed to a central
+ledger-based transfer. In its purest form, digital cash emulates the
+features of physical paper currency, namely anonymity and untraceability.
+Additionally, digital cash may include other features such as expiration
+dates, irreversibility, re-issuance, and variable denomination amounts.
 
 In addition to competing protocols, digital cash issuers compete on the
 basis of brand recognition, trustworthiness, user-friendly e-wallets,
@@ -28,8 +30,10 @@ transfer large-scale value privately.
 
 ## Articles {#articles}
 
-Coming soon.
+* [Digital Cash and the Future of Money](http://orlingrabbe.com/dcfutmo.htm)
+  by J. Orlin Grabbe
 
-## Bibliography {#bibliography}
+## Blogs {#blogs}
 
-Coming soon.
+* [The Monetary Future](http://themonetaryfuture.blogspot.com/)
+  by Jon Matonis
